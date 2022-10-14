@@ -1,0 +1,12 @@
+.nav-item{
+    margin:0px 0px;
+    padding: 5px;
+}
+.nav-item a:hover{
+    text-decoration: underline;
+}
+.carousel-inner{
+    background: url(111.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
